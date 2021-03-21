@@ -1,0 +1,17 @@
+html,
+body {
+  background-color: #042238;
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  display: flex;
+}
+
+#clock {
+  color: #dff9fb;
+  font-size: 9vw;
+  font-family: "Roboto", sans-serif;
+  margin: auto;
+}
